@@ -46,6 +46,7 @@ header p{
     display: flex;
     flex-direction: column;
     margin-bottom: 50px;
+    min-width: 160px;
 }
 .stars{
     background-color: hsl(300, 19%, 81%);
@@ -128,7 +129,7 @@ header p{
         padding-left:  25px;
     }
     .star1{
-        align-items: flex-start;
+        align-self: flex-start;
     }
     .star3{
         align-self: flex-end;
