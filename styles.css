@@ -128,7 +128,7 @@ header p{
         padding-left:  25px;
     }
     .star1{
-        align-self: flex-start;
+        align-items: flex-start;
     }
     .star3{
         align-self: flex-end;
